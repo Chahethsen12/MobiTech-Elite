@@ -1,0 +1,8 @@
+{
+  "name": "MobiTech Elite: Industry-Level Phone Shop",
+  "description": "A high-performance e-commerce platform for mobile devices featuring AI-powered shopping assistance, real-time inventory management, and full MERN stack architecture documentation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
