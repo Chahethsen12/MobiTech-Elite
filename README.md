@@ -40,7 +40,7 @@ To see the inventory management and sales analytics, you first need to trigger t
 
 To view order history and profile settings, use the regular Sign In button in the navbar:
 
-   ``` Email: user@example.com (or any email)
+    Email: user@example.com (or any email)
 
     Password: any_password ```
 
